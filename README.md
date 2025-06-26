@@ -17,10 +17,6 @@ This repository contains the data and R scripts used in the study:
 📁 scripts/
 ├── modelagem_agb_lidar_inicial.R    # Initial script for regression and variable importance
 
-📁 figures/
-├── power_curve_TOST.png     # Empirical TOST power curves
-├── bland_altman.png         # Agreement plots between methods
-
 ---
 
 ## 📊 Objectives
