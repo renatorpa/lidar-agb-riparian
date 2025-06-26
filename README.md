@@ -1,4 +1,4 @@
-# 🛰️ LiDAR–Allometry Equivalence and Biomass Modeling in Mediterranean Riparian Forests
+# 🛰️ LiDAR–Allometry Equivalence and Biomass Modeling in Riparian Forests
 
 This repository contains the data and R scripts used in the study:
 
@@ -27,14 +27,9 @@ This repository contains the data and R scripts used in the study:
 
 This repository supports two main analyses:
 
-1. **Statistical equivalence analysis** between LiDAR-based and allometric AGB estimates using:
+**Statistical equivalence analysis** between LiDAR-based and allometric AGB estimates using:
    - Bland–Altman plots with BCa bootstrap limits,
    - TOST with bootstrap-based power curves.
-
-2. **Biomass modeling** based on LiDAR structural metrics, including:
-   - Linear regression and multivariate selection,
-   - Variable importance ranking via Random Forest,
-   - Species-specific vs generalist model comparisons.
    
 ## Citation and Attribution
 
