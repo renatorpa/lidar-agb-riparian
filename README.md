@@ -2,9 +2,7 @@
 
 This repository contains the data and R scripts used in the study:
 
-> **"Evaluating the Equivalence Between UAV-based and LiDAR-derived Aboveground Biomass Estimates in Mediterranean Riparian Forests"**  
-> and its follow-up:  
-> **"Structural Predictors of Aboveground Biomass: LiDAR-derived Metrics Across Species"**
+> **"Evaluating the Equivalence Between UAV-based and LiDAR-derived Aboveground Biomass Estimates in Riparian Forests"**  
 
 ---
 
